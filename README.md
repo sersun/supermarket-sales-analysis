@@ -4,7 +4,7 @@ Analyze sales data from a supermarket dataset to uncover insights into customer 
 
 ## Introduction
 
-In this analysis, we delve into a comprehensive exploration of a [supermarket sales dataset]([link_to_dataset_on_kaggle](https://www.kaggle.com/datasets/lovishbansal123/sales-of-a-supermarket)) obtained from Kaggle. The dataset contains a wealth of information regarding sales transactions, customer demographics, product lines, and payment methods, encompassing a total of 1000 entries and 17 columns. Our aim is to gain actionable insights and identify key trends that can inform strategic business decisions for the supermarket.
+In this analysis, we delve into a comprehensive exploration of a [supermarket sales dataset]([[link_to_dataset_on_kaggle](https://www.kaggle.com/datasets/lovishbansal123/sales-of-a-supermarket)](https://www.kaggle.com/datasets/lovishbansal123/sales-of-a-supermarket)) obtained from Kaggle. The dataset contains a wealth of information regarding sales transactions, customer demographics, product lines, and payment methods, encompassing a total of 1000 entries and 17 columns. Our aim is to gain actionable insights and identify key trends that can inform strategic business decisions for the supermarket.
 
 By conducting thorough data analysis, we aim to uncover patterns in customer behavior, understand the performance of different product lines, assess the effectiveness of various payment methods, and explore the impact of customer membership status on sales. Additionally, we will investigate factors such as sales distribution across different cities, peak transaction hours, and gross income to provide a comprehensive overview of the supermarket's operations.
 
