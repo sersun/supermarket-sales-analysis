@@ -16,6 +16,6 @@ Let's dive into the data and uncover actionable insights to drive business growt
 
 ## Repository Contents
 
-- [Jupyter Notebook](link_to_jupyter_file): Source code for the analysis
-- [HTML Report](link_to_html_report): Detailed report of the analysis results
+- [Jupyter Notebook]([link_to_jupyter_file](https://github.com/sersun/supermarket-sales-analysis/blob/main/supermarket-sales-analysis.ipynb)): Source code for the analysis
+- [HTML Report]([link_to_html_report](https://github.com/sersun/supermarket-sales-analysis/blob/main/supermarket-sales-analysis.html)): Detailed report of the analysis results
 
